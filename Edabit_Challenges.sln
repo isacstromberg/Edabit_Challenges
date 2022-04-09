@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edabit_Challenges", "Edabit_Challenges\Edabit_Challenges.csproj", "{BFE78550-2AB2-44BB-A729-886A581CBC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLowNumber", "HighLowNumber\HighLowNumber.csproj", "{E9161749-05DE-4655-8DB2-9C7C4444202E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE78550-2AB2-44BB-A729-886A581CBC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE78550-2AB2-44BB-A729-886A581CBC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE78550-2AB2-44BB-A729-886A581CBC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE78550-2AB2-44BB-A729-886A581CBC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9161749-05DE-4655-8DB2-9C7C4444202E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9161749-05DE-4655-8DB2-9C7C4444202E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9161749-05DE-4655-8DB2-9C7C4444202E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9161749-05DE-4655-8DB2-9C7C4444202E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083B1FE8-BA05-4BB7-ADB3-2FCCD2343BA1}
+	EndGlobalSection
+EndGlobal
